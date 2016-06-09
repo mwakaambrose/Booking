@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="title_activity_home">Available Rooms</string>
+    <string name="about_app">About</string>
+    <string name="exit">Exit</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_about">About</string>
+</resources>
